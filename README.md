@@ -157,7 +157,7 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 - [Miso.Canvas](https://haddocks.haskell-miso.org/miso/Miso-Canvas.html) - A spring physics based React animation library
 - [three.hs](https://github.com/three-hs/three.hs) - Haskell jsaddle bindings to three.js
-- [three-miso](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions
+- [three-miso](https://threejs.haskell-miso.org) - Haskell miso integration w/ three.hs
 
 <!-- #### React Integration -->
 
