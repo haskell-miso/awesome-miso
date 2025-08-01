@@ -146,7 +146,7 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 #### Miso Renderers
 
-- [miso-lynx](https://github.com/pmndrs/miso-lynx) - A Renderer for integrating with [LynxJS.org](https://lynxjs.org)
+- [miso-lynx](https://github.com/dmjio/miso-lynx) - A Renderer for integrating with [LynxJS.org](https://lynxjs.org)
 
 <!-- #### React Internationalization -->
 
