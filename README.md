@@ -26,9 +26,9 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
   - [Miso Real Apps](#miso-real-apps)
 - [Miso Native](#miso-native)
   - [Miso Native General Resources](#miso-native-general-resources)
-  - [Miso Native Navigation](#miso-native-navigation)
-  - [Miso Native Awesome Components](#miso-native-awesome-components)
-  - [Miso Native Libraries](#miso-native-libraries)
+  <!-- -  - [Miso Native Navigation](#miso-native-navigation)-->
+  <!-- -  - [Miso Native Awesome Components](#miso-native-awesome-components)-->
+  <!-- -  - [Miso Native Libraries](#miso-native-libraries)-->
 - [Contribution](#contribution)
 
 ### :ramen: Miso
