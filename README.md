@@ -81,7 +81,7 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 - [jsaddle](https://hackage.haskell.org/package/jsaddle) - Hot-reload support when developing `miso` applications.
 - [miso-from-html](https://github.com/haskell-miso/miso-from-html) - Convert HTML into miso `View` syntax.
-- [bun](https://github.com/oven.sh/bun) - Bundler and JS runtime.
+- [bun](https://github.com/oven-sh/bun) - Bundler and JS runtime.
 
 <!-- #### React Testing -->
 
