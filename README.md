@@ -36,8 +36,8 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 #### Miso General Resources
 
 - [Miso Official Website](https://haskell-miso.org/)
-- [Miso GitHub](https://github.com/dmjio/miso)
-- [Miso Organization GitHub](https://github.com/haskell-miso)
+- [Miso GitHub Repo](https://github.com/dmjio/miso)
+- [Miso GitHub Organization](https://github.com/haskell-miso)
 - [Miso Discord Channel](https://discord.gg/QVDtfYNSxq)
 - [Miso Community](https://github.com/dmjio/miso?tab=readme-ov-file#community)
 <!-- - Miso Conferences -->
@@ -75,11 +75,11 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 #### Miso Routing
 
-- [Miso.Router](https://github.com/haskell-miso/) - Declarative Servant-style routing for miso
+- [Miso.Router](https://haddocks.haskell-miso.org/miso/Miso-Router.html) - Declarative `servant`-style routing for `miso`.
 
 #### Miso Development Tools
 
-- [jsaddle](https://github.com/facebook/create-react-app) - Hot-reload support when developing `miso` applications.
+- [jsaddle](https://hackage.haskell.org/package/jsaddle) - Hot-reload support when developing `miso` applications.
 - [miso-from-html](https://github.com/haskell-miso/miso-from-html) - Convert HTML into miso `View` syntax.
 - [bun](https://github.com/oven.sh/bun) - Bundler and JS runtime.
 
