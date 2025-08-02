@@ -63,8 +63,8 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 #### Miso State Management and Data Fetching
 
-- [Miso.State](https://haddocks.haskell-miso.org/miso/Miso-State.html) - Regular `MonadState`-based model management (`modify`, `put`, `get`, etc.).
-- [Miso.Lens](https://haddocks.haskell-miso.org/miso/Miso-Lens.html) - Simple, `MonadState` lens-based state management (`.=`, `%=`).
+- [Miso.State](https://haddocks.haskell-miso.org/miso/Miso-State.html) - Regular `MonadState` model management (`modify`, `put`, `get`, etc.).
+- [Miso.Lens](https://haddocks.haskell-miso.org/miso/Miso-Lens.html) - Simple, `Lens`-based state management (`.=`, `%=`).
 - [Miso.Fetch](https://haddocks.haskell-miso.org/miso/Miso-Fetch.html) - Easy AJAX / Fetch API support.
 - [servant-client-js](https://hackage.haskell.org/package/servant-client-js) - Servant-style Fetch API support.
 
