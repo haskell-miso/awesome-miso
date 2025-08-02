@@ -70,7 +70,7 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 #### Miso Styling
 
-- [miso-ui](https://github.com/haskell-miso/miso-ui) - Tailwind CSS ShadCN-based styling
+- [miso-ui](https://github.com/haskell-miso/miso-ui) - Tailwind CSS ShadCN-based styling, uses [Basecoat UI](https://basecoatui.com)
 - [miso-bulma](https://github.com/haskell-miso/miso-bulma) - [Bulma](https://bulma.io)-based styling.
 
 #### Miso Routing
@@ -155,7 +155,7 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 #### Miso Graphics and Animations
 
-- [Miso.Canvas](https://haddocks.haskell-miso.org/miso/Miso-Canvas.html) - A spring physics based React animation library
+- [Miso.Canvas](https://haddocks.haskell-miso.org/miso/Miso-Canvas.html) - A 2D Canvas library implementation.
 - [three.hs](https://github.com/three-hs/three.hs) - Haskell jsaddle bindings to three.js
 - [three-miso](https://threejs.haskell-miso.org) - Haskell miso integration w/ three.hs
 
@@ -170,6 +170,7 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 - [haskell-miso.org](https://haskell-miso.org) - Haskell miso project main site.
 - [Blimp Co](https://github.com/nielsbergsma/blimp_co_haskell) - Example Blimp company website
+- [Miso Examples](https://github.com/haskell-miso#-index)
 <!-- - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack -->
 <!-- - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser -->
 <!-- - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov -->
