@@ -24,6 +24,7 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
   - [Miso Graphics and Animations](#miso-graphics-and-animations)
   <!-- - [Miso Integration](#miso-integration) -->
   - [Miso Real Apps](#miso-real-apps)
+  - [Miso Games](#miso-games)
 - [Miso Native](#miso-native)
   - [Miso Native General Resources](#miso-native-general-resources)
   <!-- -  - [Miso Native Navigation](#miso-native-navigation)-->
@@ -171,6 +172,9 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 - [haskell-miso.org](https://haskell-miso.org) - Haskell miso project main site.
 - [Blimp Co](https://github.com/nielsbergsma/blimp_co_haskell) - Example Blimp company website
 - [Miso Examples](https://github.com/haskell-miso#-index)
+
+#### Miso Games
+- [Card Game](https://github.com/smelc/miso-darkcraw)
 <!-- - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack -->
 <!-- - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser -->
 <!-- - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov -->
