@@ -73,11 +73,11 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 #### Miso Styling
 
 - [miso-ui](https://github.com/haskell-miso/miso-ui) - Tailwind CSS ShadCN-based styling, uses [Basecoat UI](https://basecoatui.com)
-- [miso-bulma](https://github.com/haskell-miso/miso-bulma) - [Bulma](https://bulma.io)-based styling.
 
 #### Miso Routing
 
-- [Miso.Router](https://haddocks.haskell-miso.org/miso/Miso-Router.html) - Declarative `servant`-style routing for `miso`.
+- [servant-miso-router](https://github.com/haskell-miso/servant-miso-router) - Declarative `servant`-style routing for `miso`.
+- [Miso.Router](https://haddocks.haskell-miso.org/miso/Miso-Router.html) - Generics-based default router shipped with `miso`.
 
 #### Miso Development Tools
 
@@ -157,6 +157,7 @@ A collection of awesome things regarding the Haskell [miso](https://haskell-miso
 
 #### Miso Graphics and Animations
 
+- [SVG](https://svg.haskell-miso.org/) - An example of using `SVG` with [miso](https://github.com/dmjio/miso)
 - [Miso.Canvas](https://haddocks.haskell-miso.org/miso/Miso-Canvas.html) - A 2D Canvas library implementation.
 - [three.hs](https://github.com/three-hs/three.hs) - Haskell jsaddle bindings to three.js
 - [three-miso](https://threejs.haskell-miso.org) - Haskell miso integration w/ three.hs
